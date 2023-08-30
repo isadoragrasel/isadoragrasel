@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Isadora 👋
+## I'm currently a sophomore studying Computer Science at the University of South Florida
+🔭 I’m currently working on BRASA's webapp and recruitment platform.
+🌱 I’m currently learning C.
+📫 Reach me at: isagrasel@outlook.com
 
 <!--
 **isadoragrasel/isadoragrasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
