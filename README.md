@@ -2,7 +2,7 @@
 ### I'm currently a sophomore studying Computer Science at the University of South Florida
 - 🔭 I’m currently working on BRASA's webapp and recruitment platform.
 - 🌱 I’m currently learning C++.
-- ⚡️ I'm experienced in Python, JavaScript, TypeScript, HTML, and C.
+- ⚡️ I'm experienced in Python, JavaScript, TypeScript, HTML, CSS, and C.
 - 📫 Reach me at: isagrasel@outlook.com
 
 <!--
