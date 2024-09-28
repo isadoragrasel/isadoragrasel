@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on NLP and Biometrics personal projects.
 - 🌱 I've developed Project Management tools at Apple during Summer 2024. I've worked in full-stack products at the Brazilian Student Organization in 2023 and 2024.
 - ⚡️ I'm experienced in Python, JavaScript, TypeScript, HTML, CSS, C, and C++.
+- 🧠 I have a deep interest for (machine) learning and foreign languages and I'm looking forward to pursuing research in this area as my undergraduate thesis, starting in 2025.
 - 📫 Reach me at: isagrasel@outlook.com
 
 <!--
