@@ -5,6 +5,7 @@
 - ⚡️ I'm experienced in Python, JavaScript, TypeScript, HTML, CSS, C, and C++.
 - 🧠 I have a deep interest for (machine) learning and foreign languages and I'm looking forward to pursuing research in this area as my undergraduate thesis, starting in 2025.
 - 📫 Reach me at: isagrasel@outlook.com
+- 🔗 Check out my resume here: https://linktr.ee/isadoragrasel
 
 <!--
 **isadoragrasel/isadoragrasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
