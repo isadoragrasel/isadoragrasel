@@ -1,9 +1,9 @@
 # Hey, I'm Isadora 👋
 ### I'm currently a junior studying Computer Science at the University of South Florida
-- 🔭 I’m currently working on NLP and Biometrics personal projects.
-- 🌱 I've developed Project Management tools at Apple during Summer 2024 and I'll be returning for another internship in Summer 2025. I've worked in full-stack products at the Brazilian Student Association in 2023 and 2024.
+- 🔭 I’m currently working on my undergraduate thesis in applied keystroke dynamics for intention detection in misinformation sharing scenarios.
+- 🌱 I've developed Project Management internal tools at Apple during Summer 2024 and I'll be returning for another internship in Summer 2025. I've worked in full-stack products for the Brazilian Student Association during 2023 and 2024.
 - ⚡️ I'm experienced in Python, JavaScript, TypeScript, HTML, CSS, C, and C++.
-- 🧠 I have a deep interest for (machine) learning and foreign languages and I'm looking forward to pursuing research in this area as my undergraduate thesis, starting in 2025.
+- 🧠 I have a deep interest for (machine) learning and foreign languages and I'm currently involved in trustworthiness for AI enabled oncology medical devices research at the Moffitt Cancer Center.
 - 📫 Reach me at: isagrasel@outlook.com
 - 🔗 Check out my resume here: https://linktr.ee/isadoragrasel
 
